@@ -1,0 +1,23 @@
+{
+  "name": "pdf-parser",
+  "version": "1.0.0",
+  "description": "pdf -> json data parser",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksym-nezhurin/pdf-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksym-nezhurin/pdf-parser/issues"
+  },
+  "homepage": "https://github.com/maksym-nezhurin/pdf-parser#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdfjs-dist": "^3.8.162"
+  }
+}
